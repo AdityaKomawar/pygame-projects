@@ -1,2 +1,2 @@
 # Alien Invasion Game
-![Screen Shot](/images/ai_image)
+![Screen Shot](/images/ai_image.png)
